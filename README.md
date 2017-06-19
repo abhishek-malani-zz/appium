@@ -1,4 +1,5 @@
 # Automated Mobile App Test with Appium
+## Test Case: Calculator Operation
 
 ##### Table of Contents
 - [Testing Paradigms / Test Setup Specifications](#testing-paradigms--test-setup-specifications)
