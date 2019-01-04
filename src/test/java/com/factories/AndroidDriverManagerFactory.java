@@ -1,13 +1,8 @@
 package com.factories;
 
-public class AndroidDriverManagerFactory
-{
-	
+public class AndroidDriverManagerFactory {
 	public AndroidDriverManager createAndroidDriverManager()
 	{
-		    	
 		return new AndroidDriverManager();
-		
 	}
-	
 }

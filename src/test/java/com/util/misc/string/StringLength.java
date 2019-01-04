@@ -2,17 +2,8 @@ package com.util.misc.string;
 
 public class StringLength
 {
-	
-	public static String deleteFirstXCharactersFromString(
-			String string,
-			int numberXOfCharactersToDelete)
+	public static String deleteFirstXCharactersFromString(String string, int numberXOfCharactersToDelete)
 	{
-		
-		return string!=null?
-				string.substring(
-						numberXOfCharactersToDelete):
-				null;
-		
+		return string!=null? string.substring(numberXOfCharactersToDelete):null;
 	}
-	
 }
